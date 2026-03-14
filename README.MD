@@ -2,6 +2,8 @@
 
 This repository contains the scripts and program used for my research project.
 
+* [./report.pdf](report.pdf)
+
 ## Optimization methods
 * Nelder-Mead
 * Gradient descent
